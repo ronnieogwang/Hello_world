@@ -1,0 +1,8 @@
+1. git --version: 	// gives the git version
+2. git init:		// initialize a local repo
+3. git add <file>	// track a file
+4. git status		// check status
+5. git commit		// save changes
+6. git push		// push to remote repo	
+7. git pull		// pul from a remote repo
+8. git clone		// clone a remote repo
